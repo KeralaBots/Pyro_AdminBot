@@ -1,13 +1,18 @@
-# Pyrogram_Adminbot
+# Pyro_Adminbot
 
 Bot developed by [Kerala Developer Team](https://t.me/keralasbots) for better administration.
-Heavily inspired by [@EduuRobot](https://t.me/EduuRobot).
+
+Heavily inspired by `[@EduuRobot](https://t.me/EduuRobot)`.
 
 But it is not yet completed 😢
 
+Looking to implement `Jinja` templates for better adminstration.
+
+
+
 ## Installation
 
-Change the values according to you:
+<B>Change the values according to you:</B>
 
 ```
 
