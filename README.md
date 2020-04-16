@@ -2,7 +2,7 @@
 
 Bot developed by [Kerala Developer Team](https://t.me/keralasbots) for better administration.
 
-Heavily inspired by `[@EduuRobot](https://t.me/EduuRobot)`.
+Heavily inspired by `<a href="https://t.me/EduuRobot">@EduuRobot</a>`.
 
 But it is not yet completed 😢
 
